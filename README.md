@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Jairobuifranco
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning Cs50 
-- 💞️ I’m looking to collaborate on Anything 
-- 📫 How to reach me ...
-
-<!---
-Jairobuifranco/Jairobuifranco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Jairo Buitrago
+- 👀 I’m interested in web 3 and software development
+- 🌱 I’m currently undertaking a CS degree
+- 💞️ I’m looking to collaborate on any proyects
+- 📫 you can reach me by email at jairobuifranco@gmail.com
