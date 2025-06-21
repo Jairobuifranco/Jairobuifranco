@@ -1,27 +1,23 @@
 # 👋 Hi, I’m Jairo Buitrago
 
-💻 I'm a **Full Stack Developer** with a strong interest in **Web3**, **software development**, and **blockchain technologies**.  
-🎓 Currently pursuing a **Bachelor of Computer Science** at **QUT**, and I also hold a **Diploma in Information Technology** from QUT.  
-🔧 I enjoy building practical, user-friendly applications and exploring new technologies across both frontend and backend development.
+💻 Full Stack Developer | CS Student at QUT  
+🎯 Interested in **Web3**, **software development**, and building useful, user-friendly apps.
 
-## 🌟 What I'm Working On
-- 🚀 A Laravel-based product tracker app for managing items with price and description  
-- 💡 A RESTful movie database API built with Node.js, Express, MySQL, and JWT  
-- 🧠 Exploring smart contracts and dApps as part of my Web3 learning journey
+🎓 Studying a **Bachelor of Computer Science** at **QUT**  
+🎓 Also completed a **Diploma in Information Technology** from QUT
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, AG Grid  
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js, Express, Laravel, PHP, C#  
-- **Database:** MySQL, MariaDB, SQLite, Knex.js  
-- **Tools & Other:** Git, Postman, Swagger, JWT, bcrypt, REST APIs
+- **Database:** MySQL, SQLite, Knex.js  
+- **Other:** Git, Swagger, Postman, JWT, bcrypt
 
-## 🤝 Let's Collaborate
-I'm open to collaborating on:
-- Web development projects (frontend or backend)
-- Blockchain/Web3 experiments
-- Open source tools and learning resources
+## 🚧 Projects
+- **Product Tracker** (Laravel) – Manage products with price & description  
+- **Movie API** – RESTful API using Node.js, MySQL, JWT auth  
+- **Web3 Experiments** – Learning smart contracts & dApp development
 
-## 📫 Contact Me
-- Email: [jairobuifranco@gmail.com](mailto:jairobuifranco@gmail.com)  
-- LinkedIn: [linkedin.com/in/jairobuitrago](https://www.linkedin.com/in/jairobuitrago)  
-- GitHub Portfolio: [github.com/Jairobuifranco](https://github.com/Jairobuifranco)
+## 📫 Contact
+- 📧 [jairobuifranco@gmail.com](mailto:jairobuifranco@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jairobuitrago)  
+- 💻 [GitHub](https://github.com/Jairobuifranco)
